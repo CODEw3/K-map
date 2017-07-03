@@ -9,11 +9,6 @@
     using namespace std;
     int main()
     {
-        int no_var;
-        cout<<"enter no of variables";
-        cin>>no_var;
-        int no_cell=pow(2,no_var);
-        int map[no_cell];
-     
+       
         return 0;
     }
