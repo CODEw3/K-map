@@ -2,6 +2,7 @@
 	FIRST VERSION: MODIFICATIONS REQUIRED
 	SAVE NEXT VERSION WITH v_2 AFTER NAME*/
 	//NOTE:USE TILDE(~)for negation before variable
+	//DO NOT JUDGE TOO HARSHLY
 #ifndef _GLIBCXX_IOSTREAM
 #include<iostream>
 using namespace std;
